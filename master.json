@@ -1,0 +1,196 @@
+{
+	"title": "Sunniesnow Sample",
+	"artist": "UlyssesZhan",
+	"charter": "UlyssesZhan",
+	"difficultyName": "Master",
+	"difficultyColor": "#8c68f3",
+	"difficulty": "3",
+	"events": [
+		{
+			"time": -0.5,
+			"type": "placeholder",
+			"properties": {
+				"tipPoint": "1",
+				"x": 50,
+				"y": 25
+			}
+		},
+		{
+			"time": 0.0,
+			"type": "grid",
+			"properties": {
+				"duration": 2.0
+			}
+		},
+		{
+			"time": 0.0,
+			"type": "tap",
+			"properties": {
+				"tipPoint": "1",
+				"x": 0,
+				"y": -25
+			}
+		},
+		{
+			"time": 0.0,
+			"type": "tap",
+			"properties": {
+				"x": 50,
+				"y": 25
+			}
+		},
+		{
+			"time": 0.0,
+			"type": "bgNote",
+			"properties": {
+				"x": 0,
+				"y": 0,
+				"duration": 0.25,
+				"text": "This"
+			}
+		},
+		{
+			"time": 0.25,
+			"type": "tap",
+			"properties": {
+				"tipPoint": "1",
+				"x": -75,
+				"y": -25
+			}
+		},
+		{
+			"time": 0.25,
+			"type": "bgNote",
+			"properties": {
+				"x": 25,
+				"y": 0,
+				"text": "is"
+			}
+		},
+		{
+			"time": 0.375,
+			"type": "tap",
+			"properties": {
+				"tipPoint": "1",
+				"x": -50,
+				"y": -0
+			}
+		},
+		{
+			"time": 0,
+			"type": "placeholder",
+			"properties": {
+				"tipPoint": "2",
+				"x": 90,
+				"y": 130
+			}
+		},
+		{
+			"time": 0.5,
+			"type": "flick",
+			"properties": {
+				"tipPoint": "2",
+				"x": 50,
+				"y": 50,
+				"angle": 3.9269908,
+				"text": "a"
+			}
+		},
+		{
+			"time": 0.625,
+			"type": "drag",
+			"properties": {
+				"tipPoint": "2",
+				"x": 40,
+				"y": 30
+			}
+		},
+		{
+			"time": 0.25,
+			"type": "placeholder",
+			"properties": {
+				"tipPoint": "3",
+				"x": 40,
+				"y": 120
+			}
+		},
+		{
+			"time": 0.75,
+			"type": "flick",
+			"properties": {
+				"tipPoint": "3",
+				"x": 0,
+				"y": 40,
+				"angle": 3.9269908,
+				"text": "sample"
+			}
+		},
+		{
+			"time": 0.875,
+			"type": "drag",
+			"properties": {
+				"tipPoint": "3",
+				"x": -10,
+				"y": 20
+			}
+		},
+		{
+			"time": 1,
+			"type": "tap",
+			"properties": {
+				"x": -50,
+				"y": 0,
+				"text": "chart"
+			}
+		},
+		{
+			"time": 1.25,
+			"type": "tap",
+			"properties": {
+				"x": 0,
+				"y": -25,
+				"text": "Thank"
+			}
+		},
+		{
+			"time": 1,
+			"type": "placeholder",
+			"properties": {
+				"x": 50,
+				"y": -100,
+				"tipPoint": "4"
+			}
+		},
+		{
+			"time": 1.5,
+			"type": "hold",
+			"properties": {
+				"x": 50,
+				"y": 0,
+				"duration": 1.5,
+				"tipPoint": "4",
+				"text": "you"
+			}
+		},
+		{
+			"time": 1.5,
+			"type": "placeholder",
+			"properties": {
+				"x": -50,
+				"y": -100,
+				"tipPoint": "5"
+			}
+		},
+		{
+			"time": 2,
+			"type": "hold",
+			"properties": {
+				"x": -50,
+				"y": 0,
+				"duration": 1,
+				"tipPoint": "5"
+			}
+		}
+	]
+}
+
