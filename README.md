@@ -1,6 +1,7 @@
 # Sunniesnow Sample
 
 The sample chart for Sunniesnow.
+This also includes an original music clip and an original background image.
 
 ## Play
 
@@ -8,3 +9,16 @@ The sample chart for Sunniesnow.
 
 Alternatively, launch [Sunniesnow](https://sunniesnow.github.io/game/),
 and fill `sunniesnow-sample` in the online field.
+
+## Build
+
+Run the command to build the .ssc file:
+
+```shell
+make
+```
+
+## Edit
+
+Use [MuseScore](https://musescore.org) to edit the .mscz file.
+Use [Inkscape](https://inkscape.org) to edit the .svg file.
