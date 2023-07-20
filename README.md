@@ -22,3 +22,8 @@ make
 
 Use [MuseScore](https://musescore.org) to edit the .mscz file.
 Use [Inkscape](https://inkscape.org) to edit the .svg file.
+
+## License
+
+The chart, the music, and the background are all licensed under
+[CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
